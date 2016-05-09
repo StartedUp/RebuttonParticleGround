@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Particleground
 ==============
 
@@ -147,3 +148,7 @@ Particleground was inspired by http://requestlab.fr/ and http://disruptivebydesi
 ## Contributors
 
 Horia Dragomir: Removed jQuery dependency and improved rendering performance
+=======
+# RebuttonParticleGround
+In this project the background for rebutton.co has been given a new look using http://jnicol.github.io/particleground/ plugin.
+>>>>>>> 06be0f06fdb95de83443cbb28a1090bd88922d63
